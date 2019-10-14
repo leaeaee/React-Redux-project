@@ -1,0 +1,219 @@
+{
+        "validCombinations": [
+            {
+                "optionSet": {
+                    "Kragenweite": "38",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "84"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "38",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "86"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "38",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "89"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "39",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "84"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "39",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "84"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "39",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "86"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "39",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "89"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "39",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "89"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "41",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "84"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "41",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "86"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "41",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "89"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "41",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "89"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "41",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "91"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "41",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "91"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "42",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "84"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "42",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "86"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "42",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "86"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "42",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "89"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "42",
+                    "Manschettenart": "Knopfmanschette",
+                    "Ärmellänge": "91"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "42",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "91"
+                }
+            },
+            {
+                "optionSet": {
+                    "Kragenweite": "43",
+                    "Manschettenart": "Umschlagmanschette",
+                    "Ärmellänge": "94"
+                }
+            }
+        ],
+        "availableOptions": [
+            {
+                "label": "Kragenweite",
+                "options": [
+                    {
+                        "value": "38",
+                        "label": "38"
+                    },
+                    {
+                        "value": "39",
+                        "label": "39"
+                    },
+                    {
+                        "value": "41",
+                        "label": "41"
+                    },
+                    {
+                        "value": "42",
+                        "label": "42"
+                    },
+                    {
+                        "value": "43",
+                        "label": "43"
+                    }
+                ],
+                "id": "Kragenweite"
+            },
+            {
+                "label": "Ärmellänge",
+                "options": [
+                    {
+                        "value": "84",
+                        "label": "84"
+                    },
+                    {
+                        "value": "86",
+                        "label": "86"
+                    },
+                    {
+                        "value": "89",
+                        "label": "89"
+                    },
+                    {
+                        "value": "91",
+                        "label": "91"
+                    },
+                    {
+                        "value": "94",
+                        "label": "94"
+                    }
+                ],
+                "id": "Ärmellänge"
+            },
+            {
+                "label": "Manschettenart",
+                "options": [
+                    {
+                        "value": "Knopfmanschette",
+                        "label": "Knopfmanschette"
+                    },
+                    {
+                        "value": "Umschlagmanschette",
+                        "label": "Umschlagmanschette"
+                    }
+                ],
+                "id": "Manschettenart"
+            }
+        ]
+    }

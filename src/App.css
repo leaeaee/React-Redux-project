@@ -1,26 +1,139 @@
 .App {
-  text-align: center;
+  padding-top: 60px;
+  width: 80%;
+  margin:auto;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.main-title{
+  margin: 1px;
+  padding-bottom: 5px;
+  margin-top: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.side-title{
+  margin: 1px;
+  padding-bottom: 20px;
+  font-size: 13px;
+
+}
+.first-block, .second-block, .third-block{
+  border-top: 1px black solid;
+}
+
+.Kragenweite, .Armellange, .Manschettenart{
+  font-size: 13px;
+  text-align: left;
+
+}
+
+
+
+#košulja{
+  float: left;
+  width:50%;
+  padding: 15px;
+  box-sizing: border-box;
+  padding-left: 70px;
+  padding-right: 30px;
+}
+
+#main-block{
+  float: right;
+  width:50%;
+  padding: 15px;
+  box-sizing: border-box;
+  /* padding-right: 40px; */
+  text-align: left;
+}
+
+.App ul{
+  list-style-type: none;
+  padding: 10px;
+  margin: 2px;
+
+}
+
+li {
+  font-size: 13px;
+  display: inline;
+  padding: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  padding:8px;
+}
+
+.grayout{
+  color: gray;
+  /* pointer-events: none; */
+  text-decoration: none;
+}
+
+.clicked{
+  border-radius: 15px;
+  background-color: black;
   color: white;
+}
+
+.mansch-button{
+  width: 30%;
+  height: 40px;
+  background-color: black;
+  color: white;
+  margin-left: 5px;
+  border-radius: 20px;
+  /* padding-left: 0;
+  padding-right: 0; */
 }
 
 .App-link {
   color: #61dafb;
 }
+
+.main-button{
+  background-color: rgb(238, 59, 178);
+  color: white;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.green{
+  background-color: green;
+}
+
+.side-button1{
+  width: 45%;
+  height: 30px;
+  background-color: white;
+  color: black;
+  margin-right: 5px;
+}
+
+.side-button2{
+  width: 50%;
+  height: 30px;
+  background-color: black;
+  color: white;
+  margin-left: 5px;
+}
+
+.side-buttons{
+  padding: 0;
+}
+.bottom{
+  margin-top: 20px;
+  border-top: 1px black solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  border-bottom: 3px rgb(238, 59, 178) solid;
+  font-size: 11px;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
